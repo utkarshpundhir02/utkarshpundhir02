@@ -2,7 +2,7 @@
 
 ### 💻 Software Developer | 💡 Tech Enthusiast | 🚀 Lifelong Learner
 
-I'm a passionate Software Developer focused on building scalable backend systems and impactful full-stack applications. I specialize in **Java** & **Spring Boot**. I love transforming ideas into robust products and constantly learning new technologies to stay ahead in the ever-evolving tech world.
+I'm a passionate Software Developer focused on building scalable backend systems. I specialize in **Java** & **Spring Boot**. I love transforming ideas into robust products and constantly learning new technologies to stay ahead in the ever-evolving tech world.
 
 ---
 
